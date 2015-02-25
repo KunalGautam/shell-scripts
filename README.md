@@ -1,2 +1,3 @@
 # shell-scripts
-Shell Scripts
+Repository for some day to day use Shell Scripts. 
+
